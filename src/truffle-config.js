@@ -5,7 +5,7 @@ module.exports = {
     sepolia: {
       provider: () =>
         new HDWalletProvider(
-          "42a8078df4f1fe49e1ba13f3629ea4fe4c12e0a931dd3640dcfd58f7fb33e4a7", // ⚠ Replace ASAP
+          "YOUR_WALLET_PRIVATE_KEY", // ⚠ Replace ASAP
           "https://eth-sepolia.g.alchemy.com/v2/Your_Alchemy_API_KEY"
         ),
       network_id: 11155111, // Sepolia network ID
