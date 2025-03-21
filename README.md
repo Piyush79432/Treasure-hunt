@@ -1,7 +1,7 @@
 # 🎮 Blockchain Treasure Hunt Game
 
 <div align="center">
-  <img src="public/logo.svg" alt="Treasure Hunt Logo" width="150" />
+  <img src="public/logo.png" alt="Treasure Hunt Logo" width="150" />
   <h3>Find the hidden treasure on the Ethereum blockchain and win ETH rewards!</h3>
 </div>
 
