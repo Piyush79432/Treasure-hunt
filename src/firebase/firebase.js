@@ -4,12 +4,12 @@ import { getFirestore, doc, setDoc, getDoc, updateDoc } from "firebase/firestore
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCFmpuMxSN4kqjucDuKDYm_LLiirFiEfSI",
-  authDomain: "treasure-hunt-78d9d.firebaseapp.com",
-  projectId: "treasure-hunt-78d9d",
-  storageBucket: "treasure-hunt-78d9d.firebasestorage.app",
-  messagingSenderId: "933274450705",
-  appId: "1:933274450705:web:002f3f35a4e64b81d0eab0"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
