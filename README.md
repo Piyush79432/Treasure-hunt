@@ -148,27 +148,26 @@ Open your browser and navigate to `http://localhost:3000`
 ## 🎯 Game Rules
 
 1. **Setup**:
-
-1. Create an account or login with Firebase
-2. Connect your Ethereum wallet
-3. Join the game by paying the join fee (default: 0.001 ETH)
+  1. Create an account or login with Firebase
+  2. Connect your Ethereum wallet
+  3. Join the game by paying the join fee (default: 0.001 ETH)
 
 
 
 2. **Gameplay**:
 
-1. You'll be placed at a random position on the 10x10 grid
-2. Move to adjacent cells (including diagonals) by clicking on them
-3. Each player can make one move per turn
-4. Find the hidden treasure to win the entire pot!
+   1. You'll be placed at a random position on the 10x10 grid
+   2. Move to adjacent cells (including diagonals) by clicking on them
+   3. Each player can make one move per turn
+   4. Find the hidden treasure to win the entire pot!
 
 
 
 3. **Winning**:
 
-1. The first player to land on the treasure position wins
-2. The winner receives all ETH in the contract
-3. After each round, a new treasure is hidden at a random position
+   1. The first player to land on the treasure position wins
+   2. The winner receives all ETH in the contract
+   3. After each round, a new treasure is hidden at a random position
 
 
 
@@ -258,10 +257,6 @@ You can customize the game by modifying the following files:
 - Enhanced game mechanics (items, obstacles, special abilities)
 - Integration with more blockchain networks
 
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
