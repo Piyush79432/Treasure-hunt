@@ -148,9 +148,9 @@ Open your browser and navigate to `http://localhost:3000`
 ## 🎯 Game Rules
 
 1. **Setup**:
-  1. Create an account or login with Firebase
-  2. Connect your Ethereum wallet
-  3. Join the game by paying the join fee (default: 0.001 ETH)
+   1. Create an account or login with Firebase
+   2. Connect your Ethereum wallet
+   3. Join the game by paying the join fee (default: 0.001 ETH)
 
 
 
