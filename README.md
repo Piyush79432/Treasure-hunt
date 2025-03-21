@@ -51,7 +51,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/blockchain-treasure-hunt.git
+git clone https://github.com/Piyush79432/Treasure-hunt.git
 cd blockchain-treasure-hunt
 ```
 2. **Install dependencies**
